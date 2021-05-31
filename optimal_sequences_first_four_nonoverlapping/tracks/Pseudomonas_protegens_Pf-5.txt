@@ -1,4 +1,3 @@
-
 https://www.ncbi.nlm.nih.gov/nuccore/CP000076.1?report=graph&tracks=[key:gene_model_track,Options:GeneOnly]&mk=102:121|offset_1,155:174|offset_54,181:200|offset_80,201:220|offset_100&v=-99:420
 https://www.ncbi.nlm.nih.gov/nuccore/CP000076.1?report=graph&tracks=[key:gene_model_track,Options:GeneOnly]&mk=1682:1701|offset_1,1709:1728|offset_28,1736:1755|offset_55,1765:1784|offset_84&v=1481:1984
 https://www.ncbi.nlm.nih.gov/nuccore/CP000076.1?report=graph&tracks=[key:gene_model_track,Options:GeneOnly]&mk=2812:2831|offset_7,2833:2852|offset_28,2853:2872|offset_48,2873:2892|offset_68&v=2611:3092
