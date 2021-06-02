@@ -43,13 +43,13 @@ In the last column for each guide, the links to NCBI demonstrate the location of
 
 ![image](https://user-images.githubusercontent.com/6970996/120503136-a4a24a80-c388-11eb-943c-06d46027b75e.png)
 
-## Special thanks
+### Special thanks
 * https://www.ncbi.nlm.nih.gov/home/tools/
 * https://bedtools.readthedocs.io/en/latest/
 * https://github.com/vividvilla/csvtotable
 * https://github.com/traeki/sgrna_design
 
-## Presence
-https://twitter.com/RyandelasCruces/
-https://orcid.org/0000-0001-9537-2461
+### Presence
+* https://twitter.com/RyandelasCruces/
+* https://orcid.org/0000-0001-9537-2461
 
