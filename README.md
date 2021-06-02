@@ -30,7 +30,7 @@ Using [sgRNA design scripts](https://github.com/ryandward/sgrna_design), we have
  
  
 ## Notes
-* Generally, guides with the _**lowest offset**_ resulting in a superior knockdown. 
+* Generally, guides with the _**lowest offset**_ result in a superior knockdown. 
 * Since optimal guides are found on the strand opposite to coding sequence, directionality is _**anti-parallel**_ to the direction of RNA polymerase readthrough.
 * Guides are described using a valid bed format.
 
