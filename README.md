@@ -43,4 +43,8 @@ In the last column for each guide, the links to NCBI demonstrate the location of
 
 ![image](https://user-images.githubusercontent.com/6970996/120503136-a4a24a80-c388-11eb-943c-06d46027b75e.png)
 
-
+## Special thanks a few other tools
+* https://www.ncbi.nlm.nih.gov/home/tools/
+* https://bedtools.readthedocs.io/en/latest/
+* https://github.com/vividvilla/csvtotable
+* https://github.com/traeki/sgrna_design
