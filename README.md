@@ -1,4 +1,4 @@
-# Guide Sequences for Mobile-CRISPRi Knockdown in *Pseudomonas*. 
+# Guide Sequences for Mobile-CRISPRi Knockdown in *Pseudomonas*
 Using [sgRNA design scripts](https://github.com/ryandward/sgrna_design), we have identified sequences to knock down genes in [Green Star *Pseudomonas* strains](https://pseudomonas.com/strain/list). 
 
 ## Comprehensive list of guides targeting genes in popular strains
