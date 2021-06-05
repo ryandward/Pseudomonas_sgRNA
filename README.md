@@ -49,7 +49,3 @@ In the last column for each guide, the links to NCBI demonstrate the location of
 * https://github.com/vividvilla/csvtotable
 * https://github.com/traeki/sgrna_design
 
-### Presence
-* https://twitter.com/RyandelasCruces/
-* https://orcid.org/0000-0001-9537-2461
-
